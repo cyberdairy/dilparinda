@@ -1,3 +1,0 @@
-(function(factory){"use strict";if(typeof define==='function'&&define.amd){define(['jquery'],function($){return factory($,window,document)})}else if(typeof exports==='object'){module.exports=function(root,$){if(!root){root=window}
-if(!$){$=typeof window!=='undefined'?require('jquery'):require('jquery')(root)}
-return factory($,root,root.document)}}else{factory(jQuery,window,document)}}(function($,window,document){$.fn.dataTable.ext.order.intl=function(locales,options){if(window.Intl){var collator=new Intl.Collator(locales,options);var types=$.fn.dataTable.ext.type;delete types.order['string-pre'];types.order['string-asc']=collator.compare;types.order['string-desc']=function(a,b){return collator.compare(a,b)*-1}}}}))
