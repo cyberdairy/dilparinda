@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>latest news &#8211; Rajeev Lochanacharya Mahavidhyalaya</title>
+	<atom:link href="https://cyberdairy.github.io/dilparinda/category/latest-news/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cyberdairy.github.io/dilparinda</link>
+	<description>Khurai Sagar</description>
+	<lastBuildDate>Mon, 27 Jul 2020 02:29:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Notice regarding admission</title>
+		<link>https://cyberdairy.github.io/dilparinda/2020/07/27/notice-regarding-admission/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2020 02:29:54 +0000</pubDate>
+				<category><![CDATA[latest news]]></category>
+		<guid isPermaLink="false">https://cyberdairy.github.io/dilparinda/?p=118</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Admission Open</title>
+		<link>https://cyberdairy.github.io/dilparinda/2020/07/27/admission-open/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2020 02:29:20 +0000</pubDate>
+				<category><![CDATA[latest news]]></category>
+		<guid isPermaLink="false">https://cyberdairy.github.io/dilparinda/?p=116</guid>
+
+					<description><![CDATA[Admission open]]></description>
+										<content:encoded><![CDATA[<p>Admission open</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Exam Delayed</title>
+		<link>https://cyberdairy.github.io/dilparinda/2020/07/26/exam-delayed/</link>
+					<comments>https://cyberdairy.github.io/dilparinda/2020/07/26/exam-delayed/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 26 Jul 2020 11:23:58 +0000</pubDate>
+				<category><![CDATA[latest news]]></category>
+		<guid isPermaLink="false">https://cyberdairy.github.io/dilparinda/?p=1</guid>
+
+					<description><![CDATA[Due to Corona pandemic exam is postponed till further notice.]]></description>
+										<content:encoded><![CDATA[<p>Due to Corona pandemic exam is postponed till further notice.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cyberdairy.github.io/dilparinda/2020/07/26/exam-delayed/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
